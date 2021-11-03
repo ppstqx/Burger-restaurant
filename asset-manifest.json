@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Burger-restaurant/static/css/main.75149eb4.chunk.css",
+    "main.js": "/Burger-restaurant/static/js/main.60519aa4.chunk.js",
+    "main.js.map": "/Burger-restaurant/static/js/main.60519aa4.chunk.js.map",
+    "runtime-main.js": "/Burger-restaurant/static/js/runtime-main.5c834f0c.js",
+    "runtime-main.js.map": "/Burger-restaurant/static/js/runtime-main.5c834f0c.js.map",
+    "static/js/2.62048d8a.chunk.js": "/Burger-restaurant/static/js/2.62048d8a.chunk.js",
+    "static/js/2.62048d8a.chunk.js.map": "/Burger-restaurant/static/js/2.62048d8a.chunk.js.map",
+    "index.html": "/Burger-restaurant/index.html",
+    "static/css/main.75149eb4.chunk.css.map": "/Burger-restaurant/static/css/main.75149eb4.chunk.css.map",
+    "static/js/2.62048d8a.chunk.js.LICENSE.txt": "/Burger-restaurant/static/js/2.62048d8a.chunk.js.LICENSE.txt",
+    "static/media/about.851040eb.jpg": "/Burger-restaurant/static/media/about.851040eb.jpg",
+    "static/media/header.c09ad540.png": "/Burger-restaurant/static/media/header.c09ad540.png",
+    "static/media/s1.07250204.png": "/Burger-restaurant/static/media/s1.07250204.png",
+    "static/media/s2.142f7a89.png": "/Burger-restaurant/static/media/s2.142f7a89.png",
+    "static/media/s3.b8e47592.png": "/Burger-restaurant/static/media/s3.b8e47592.png",
+    "static/media/s4.4bf4de08.png": "/Burger-restaurant/static/media/s4.4bf4de08.png",
+    "static/media/s5.22b4bfa1.png": "/Burger-restaurant/static/media/s5.22b4bfa1.png",
+    "static/media/s6.7d35c74d.png": "/Burger-restaurant/static/media/s6.7d35c74d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c834f0c.js",
+    "static/js/2.62048d8a.chunk.js",
+    "static/css/main.75149eb4.chunk.css",
+    "static/js/main.60519aa4.chunk.js"
+  ]
+}
