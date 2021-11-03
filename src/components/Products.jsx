@@ -1,11 +1,11 @@
 import React from 'react';
 import Productbox from './Productbox';
-import pimage1 from '../images/s1r.png';
-import pimage2 from '../images/s2r.png';
-import pimage3 from '../images/s3r.png';
-import pimage4 from '../images/s4r.png';
-import pimage5 from '../images/s5r.png';
-import pimage6 from '../images/s6r.png';
+import pimage1 from '../images/s1.png';
+import pimage2 from '../images/s2.png';
+import pimage3 from '../images/s3.png';
+import pimage4 from '../images/s4.png';
+import pimage5 from '../images/s5.png';
+import pimage6 from '../images/s6.png';
 
 
 function products() {

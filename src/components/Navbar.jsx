@@ -1,6 +1,6 @@
 import React,{useState} from 'react';
 import {Link} from 'react-scroll';
-import logo from '../images/GFG.png';
+import logo from '../images/logo.png';
 
 function Navbar() {
 
